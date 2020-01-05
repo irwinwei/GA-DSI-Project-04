@@ -1,0 +1,1 @@
+Alignment determines the appearance and orientation of the edges of the paragraph: left-aligned text, right-aligned text, centered text, or justified text, which is aligned evenly along the left and right margins. For example, in a paragraph that is left-aligned (the most common alignment), the left edge of the paragraph is flush with the left margin.
